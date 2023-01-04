@@ -1,0 +1,41 @@
+/**************************TAG SELECTORS************************/
+body {
+  background-color: #D0F0C0;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+img {
+  height: 200px;
+}
+img:hover {
+  background-color:gold;
+  height: 250px;
+}
+/*
+img{
+  width: :200px;
+}*/
+/****************************CLASS SELECTORS********************/
+.crab {
+  background-color: red;
+}
+.cannabis {
+  background-color: green;
+}
+.Ganja
+{
+  color:green;
+}
+.Ganja:hover
+{
+  font-family: sans-serif;
+}
+
+/*************************************ID SELECTORS****************************/
+/*
+#heading {
+  color: red;
+}
